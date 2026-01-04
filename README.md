@@ -6,7 +6,7 @@
 
 <h2>📺 Academic Projects</h2>
 
-- [Design Thinking Project (Link will be updated soon)](Design-Thinking-Project)
+- [Design Thinking Project (Link will be updated soon)]([Design-Thinking-Project])
 - [Grading System Project (French)](https://github.com/ilias404/Gestion-de-Notes)
 
 <h2> 🤳 Connect with me:</h2>
