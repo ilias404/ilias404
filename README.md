@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ilias! <br/><a href="https://github.com/Worldline1">Cybersecurity Enthusiast & Language Learner</a>
 
-<h2>🧑‍💻 Cybersecurity Projects:</h2>
+<h2>🧑‍💻 Personal Projects:</h2>
 
 - [Active Directory Project](https://github.com/Worldline1/Active-Directory-Project)
 
