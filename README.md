@@ -8,7 +8,7 @@
 
 - [Design Thinking Project](https://github.com/ilias404/Design-Thinking-Project)
 - [Grading System Project](https://github.com/ilias404/Gestion-de-Notes)
-- [Quality of Service (QoS) Project]([https://github.com/ilias404/Gestion-de-Notes](https://github.com/ilias404/Quality-of-Service-Project))
+- [Quality of Service (QoS) Project]((https://github.com/ilias404/Quality-of-Service-Project))
 
 <h2> 🤳 Connect with me:</h2>
 
