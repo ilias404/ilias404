@@ -7,7 +7,8 @@
 <h2>📺 Academic Projects</h2>
 
 - [Design Thinking Project](https://github.com/ilias404/Design-Thinking-Project)
-- [Grading System Project (French)](https://github.com/ilias404/Gestion-de-Notes)
+- [Grading System Project](https://github.com/ilias404/Gestion-de-Notes)
+- [Quality of Service (QoS) Project]([https://github.com/ilias404/Gestion-de-Notes](https://github.com/ilias404/Quality-of-Service-Project))
 
 <h2> 🤳 Connect with me:</h2>
 
