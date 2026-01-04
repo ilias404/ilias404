@@ -2,12 +2,12 @@
 
 <h2>🧑‍💻 Personal Projects:</h2>
 
-- [Active Directory Project](https://github.com/Worldline1/Active-Directory-Project)
+- [Active Directory Project](https://github.com/ilias404/Active-Directory-Project)
 
 <h2>📺 Academic Projects</h2>
 
 - [Design Thinking Project (Link will be updated soon)](xh4G8iP9Qn)
-- [Grading System Project (French)](https://github.com/Worldline1/Gestion-de-Notes)
+- [Grading System Project (French)](https://github.com/ilias404/Gestion-de-Notes)
 
 <h2> 🤳 Connect with me:</h2>
 
