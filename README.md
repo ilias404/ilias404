@@ -8,11 +8,11 @@
 
 - [Design Thinking Project](https://github.com/ilias404/Design-Thinking-Project)
 - [Grading System Project](https://github.com/ilias404/Gestion-de-Notes)
-- [Quality of Service (QoS) Project]((https://github.com/ilias404/Quality-of-Service-Project))
+- [Quality of Service (QoS) Project](https://github.com/ilias404/Quality-of-Service-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/amranilias/
 
