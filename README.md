@@ -2,7 +2,7 @@
 
 <h2>🧑‍💻 Personal Projects:</h2>
 
-- [Active Directory Project](https://github.com/ilias404/Active-Directory-Project)
+- [SIEM Lab](https://github.com/ilias404/Active-Directory-Project)
 
 <h2>📺 Academic Projects</h2>
 
