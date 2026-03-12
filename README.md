@@ -3,6 +3,8 @@
 <h2>🧑‍💻 Personal Projects:</h2>
 
 - [SIEM Lab](https://github.com/ilias404/SIEM-Lab)
+- [Wazuh Lab (Ongoing)](https://github.com/ilias404/Wazuh-Lab)
+
 
 <h2>📺 Academic Projects</h2>
 
