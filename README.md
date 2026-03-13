@@ -2,7 +2,7 @@
 
 <h2>🧑‍💻 Personal Projects:</h2>
 
-- [Splunk Lab](https://github.com/ilias404/SIEM-Lab)
+- [Splunk Lab](https://github.com/ilias404/Splunk-Lab)
 - [Wazuh Lab (Ongoing)](https://github.com/ilias404/Wazuh-Lab)
 
 
