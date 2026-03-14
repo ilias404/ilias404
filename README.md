@@ -3,7 +3,7 @@
 <h2>🧑‍💻 Personal Projects:</h2>
 
 - [Splunk Lab](https://github.com/ilias404/Splunk-Lab)
-- [Wazuh Lab (Ongoing)](https://github.com/ilias404/Wazuh-Lab)
+- [SOC-Automation-Project](https://github.com/ilias404/SOC-Automation-Project)
 
 
 <h2>📺 Academic Projects</h2>
