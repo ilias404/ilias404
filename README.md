@@ -5,14 +5,14 @@
 - [Splunk Lab](https://github.com/ilias404/Splunk-Lab)
 - [SOC-Automation-Project (Wazuh)](https://github.com/ilias404/SOC-Automation-Project)
 - [Hack The Box - Sherlocks](https://github.com/ilias404/HTB-Sherlocks)
-- [Metasploitable](https://github.com/ilias404/Metasploitable)
 
 
 <h2>📺 Academic Projects</h2>
 
-- [Design Thinking Project](https://github.com/ilias404/Design-Thinking-Project)
-- [Grading System Project](https://github.com/ilias404/Gestion-de-Notes)
+- [Metasploitable](https://github.com/ilias404/Metasploitable)
 - [Quality of Service (QoS) Project](https://github.com/ilias404/Quality-of-Service-Project)
+- [Grading System Project](https://github.com/ilias404/Gestion-de-Notes)
+- [Design Thinking Project](https://github.com/ilias404/Design-Thinking-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
