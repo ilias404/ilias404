@@ -9,7 +9,7 @@
 
 <h2>📺 Academic Projects</h2>
 
-- [Metasploitable](https://github.com/ilias404/Metasploitable)
+- [Metasploitable - Vulnerability Assesment](https://github.com/ilias404/Metasploitable)
 - [Quality of Service (QoS) Project](https://github.com/ilias404/Quality-of-Service-Project)
 - [Grading System Project](https://github.com/ilias404/Gestion-de-Notes)
 - [Design Thinking Project](https://github.com/ilias404/Design-Thinking-Project)
