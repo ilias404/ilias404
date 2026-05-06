@@ -5,6 +5,7 @@
 - [Splunk Lab](https://github.com/ilias404/Splunk-Lab)
 - [SOC-Automation-Project (Wazuh)](https://github.com/ilias404/SOC-Automation-Project)
 - [Hack The Box - Sherlocks](https://github.com/ilias404/HTB-Sherlocks)
+- [Metasploitable](https://github.com/ilias404/Metasploitable)
 
 
 <h2>📺 Academic Projects</h2>
