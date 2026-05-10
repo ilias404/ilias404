@@ -2,8 +2,9 @@
 
 <h2>🧑‍💻 Personal Projects:</h2>
 
-- [Splunk Lab](https://github.com/ilias404/Splunk-Lab)
+- [ISO-27001-Aligned-AI-SOC](https://github.com/ilias404/ISO-27001-Aligned-AI-SOC)
 - [SOC-Automation-Project (Wazuh)](https://github.com/ilias404/SOC-Automation-Project)
+- [Splunk Lab](https://github.com/ilias404/Splunk-Lab)
 - [Hack The Box - Sherlocks](https://github.com/ilias404/HTB-Sherlocks)
 
 
