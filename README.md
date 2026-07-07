@@ -4,7 +4,7 @@
 
 - [ISO-27001-Aligned-AI-SOC](https://github.com/ilias404/ISO-27001-Aligned-AI-SOC)
 - [SOC-Automation-Project (Wazuh)](https://github.com/ilias404/SOC-Automation-Project)
-- [Splunk Lab](https://github.com/ilias404/Splunk-Lab)
+- [Active Directory Project (Splunk)](https://github.com/ilias404/Active-Directory-Project-(Splunk))
 - [Hack The Box - Sherlocks](https://github.com/ilias404/HTB-Sherlocks)
 
 
