@@ -2,10 +2,11 @@
 
 <h2>🧑‍💻 Personal Projects:</h2>
 
-- [ISO-27001-Aligned-AI-SOC](https://github.com/ilias404/ISO-27001-Aligned-AI-SOC)
-- [SOC-Automation-Project (Wazuh)](https://github.com/ilias404/SOC-Automation-Project)
-- [Active Directory Project (Splunk)](https://github.com/ilias404/Active-Directory-Project-Splunk)
 - [Hack The Box - Sherlocks](https://github.com/ilias404/HTB-Sherlocks)
+- [ISO 27001 Aligned AI SOC](https://github.com/ilias404/ISO-27001-Aligned-AI-SOC)
+- [SOC Automation Project (Wazuh)](https://github.com/ilias404/SOC-Automation-Project)
+- [Active Directory Project (Splunk)](https://github.com/ilias404/Active-Directory-Project-Splunk)
+- [Site-to-Site VPN Implementation with pfSense on GNS3](https://github.com/ilias404/Site-to-Site-VPN-Implementation-with-pfSense-on-GNS3)
 
 
 <h2>📺 Academic Projects</h2>
