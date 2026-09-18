@@ -1,4 +1,4 @@
-# Hi, I'm Ilias Amrani
+# Hi, I'm Ilias
 
 **Final-Year Engineering Student | SOC & Blue Team | Detection Engineering & Security Automation**
 
