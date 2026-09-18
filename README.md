@@ -84,5 +84,4 @@ Arabic · English · French · Spanish · German · Japanese
 ## Connect with Me
 
 * [LinkedIn](https://www.linkedin.com/in/amranilias/)
-* [GitHub](https://github.com/ilias404)
 * [Email](mailto:amraniliasensa@gmail.com)
