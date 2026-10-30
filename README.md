@@ -6,7 +6,7 @@ Final-year engineering student, focused on security monitoring, detection engine
 
 Hands-on experience building SOC environments with **Wazuh, Splunk, Sysmon, n8n, Shuffle, IRIS and TheHive**, supported by attack simulations and forensic investigations.
 
-**Seeking a cybersecurity PFE starting January/February 2027.**
+**Seeking a cybersecurity PFE starting February 2027.**
 
 ---
 
