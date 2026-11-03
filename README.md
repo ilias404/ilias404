@@ -24,7 +24,7 @@ Automated detection and incident-response ecosystem integrating **Wazuh, n8n and
 
 ### [Hack The Box Sherlocks](https://github.com/ilias404/HTB-Sherlocks)
 
-Write-ups from more than 15 defensive security and DFIR investigations.
+Write-ups from defensive security and DFIR investigations.
 
 * Windows Event Logs and Sysmon analysis
 * NTFS artifacts, including `$MFT` and `$J`
