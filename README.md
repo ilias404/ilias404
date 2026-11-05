@@ -32,6 +32,16 @@ Write-ups from defensive security and DFIR investigations.
 * PCAP and network-traffic analysis
 * Attack-timeline reconstruction and MITRE ATT&CK mapping
 
+### [Metasploitable 2 – Vulnerability Assessment](https://github.com/ilias404/Metasploitable)
+
+Hands-on vulnerability assessment of a deliberately vulnerable Linux environment using industry-standard penetration-testing tools.
+
+- Network reconnaissance and service enumeration using Nmap
+- Vulnerability identification and security assessment
+- Exploitation of vulnerable services using Metasploit Framework
+- Analysis of security weaknesses and potential attack vectors
+- Documentation of findings and remediation recommendations
+
 ### [SOC Automation Project](https://github.com/ilias404/SOC-Automation-Project)
 
 End-to-end SOC workflow connecting **Sysmon, Wazuh, Shuffle and TheHive**.
@@ -66,7 +76,6 @@ Secure network architecture designed and simulated using **pfSense, IPsec and GN
 
 <br>
 
-* [Metasploitable Vulnerability Assessment](https://github.com/ilias404/Metasploitable)
 * [Quality of Service Project](https://github.com/ilias404/Quality-of-Service-Project)
 * [Grading System Project](https://github.com/ilias404/Gestion-de-Notes)
 * [Design Thinking Project](https://github.com/ilias404/Design-Thinking-Project)
