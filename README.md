@@ -1,4 +1,4 @@
-# Greetings, I'm Ilias
+# Hello, I'm Ilias
 
 **Final-Year Engineering Student | SOC & Blue Team | Detection Engineering & Security Automation**
 
