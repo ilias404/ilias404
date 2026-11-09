@@ -32,6 +32,15 @@ Write-ups from defensive security and DFIR investigations.
 * PCAP and network-traffic analysis
 * Attack-timeline reconstruction and MITRE ATT&CK mapping
 
+### [Site-to-Site VPN Lab with pfSense and GNS3](https://github.com/ilias404/Site-to-Site-VPN-Implementation-with-pfSense-on-GNS3)
+
+Secure network architecture designed and simulated using **pfSense, IPsec and GNS3**.
+
+* Site-to-site IPsec VPN connectivity
+* Network segmentation and routing
+* Firewall rules, ACLs and NAT
+* Secure communication between remote networks
+
 ### [Metasploitable 2 – Vulnerability Assessment](https://github.com/ilias404/Metasploitable)
 
 Hands-on vulnerability assessment of a deliberately vulnerable Linux environment using industry-standard penetration-testing tools.
@@ -60,14 +69,7 @@ Detection-engineering environment built around Windows, Active Directory and Spl
 * More than 20 SPL detection rules mapped to MITRE ATT&CK
 * Detection validation using Atomic Red Team simulations
 
-### [Site-to-Site VPN Lab with pfSense and GNS3](https://github.com/ilias404/Site-to-Site-VPN-Implementation-with-pfSense-on-GNS3)
 
-Secure network architecture designed and simulated using **pfSense, IPsec and GNS3**.
-
-* Site-to-site IPsec VPN connectivity
-* Network segmentation and routing
-* Firewall rules, ACLs and NAT
-* Secure communication between remote networks
 
 ---
 
